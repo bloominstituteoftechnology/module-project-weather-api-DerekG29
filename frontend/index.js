@@ -16,6 +16,9 @@ async function moduleProject4() {
 
   // 👉 Tasks 1 - 5 go here
 
+  const weatherWidget = document.querySelector('#weatherWidget');
+  weatherWidget.style.display = 'none';
+
   // 👆 WORK WORK ABOVE THIS LINE 👆
 
 }
